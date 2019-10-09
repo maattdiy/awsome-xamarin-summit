@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Awsome Xamarin Summit
 
-You can use the [editor on GitHub](https://github.com/maattdiy/awsome-xamarin-summit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://img.shields.io/badge/status-waiting%202020-orange)
+![](https://img.shields.io/github/last-commit/maattdiy/awsome-xamarin-summit.svg?style=flat)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green)](http://makeapullrequest.com)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A curated list of awesome _Xamarin Summit_ resources. https://xamarinsummit.com.br/home
 
-### Markdown
+## 2019 • Florianópolis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### General
+- [Evaluation Survey](https://forms.gle/o1UqmGxkeAHM1AUv9): Help to define the next event.
+- [LiteDB repo](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/): A document that defines the core principles of reactive programming.
 
-```markdown
-Syntax highlighted code block
+### Talk References
+- [Entendendo e otimizando o build do Android com D8, R8 e AAPT2](https://www.theurlist.com/referencias_d8_r8_aapt2)
+- [Contribuindo com o código do Xamarin" no Xamarin Summit 04/10](https://www.theurlist.com/xamarin_summit)
 
-# Header 1
-## Header 2
-### Header 3
+## Other Xamarin Awsome Lists
 
-- Bulleted
-- List
+- [Awesome-Xamarin](https://github.com/XamSome/awesome-xamarin): A hand-picked bookmark collection of subjectively modern/interesting and ideally open-source libraries/tools for Xamarin Android/iOS/Windows/OSX.
+- [Awesome Xamarin.Forms](https://github.com/jsuarezruiz/awesome-xamarin-forms): A curated list of awesome Xamarin.Forms libraries and resources.
 
-1. Numbered
-2. List
+## Contributing
+This Awesome list is open-source and is always open to people who want to contribute to it. 
 
-**Bold** and _Italic_ and `Code` text
+## Trademark Legal Notice
+This Awesome list is not created, developed, affiliated, supported, maintained or endorsed by Xamarin Summit.
 
-[Link](url) and ![Image](src)
-```
+All product names, logos, brands, trademarks and registered trademarks are property of their respective owners. All company, product, and service names used in this list are for identification purposes only.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maattdiy/awsome-xamarin-summit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Use of these names, logos, trademarks, and brands does not imply endorsement.
