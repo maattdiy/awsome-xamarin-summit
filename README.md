@@ -18,7 +18,7 @@ A curated list of awesome _Xamarin Summit_ related resources. [https://xamarinsu
 ### Talk References
 
 - [Entendendo e otimizando o build do Android com D8, R8 e AAPT2](https://www.theurlist.com/referencias_d8_r8_aapt2)
-- [Contribuindo com o código do Xamarin" no Xamarin Summit 04/10](https://www.theurlist.com/xamarin_summit)
+- [Contribuindo com o código do Xamarin](https://www.theurlist.com/xamarin_summit)
 
 ## Other Xamarin Awsome Lists
 
